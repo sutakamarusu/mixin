@@ -1,2 +1,2 @@
 # mixin
-Sass Mixinsのファイル集
+Sass Mixinsのスニペット集
